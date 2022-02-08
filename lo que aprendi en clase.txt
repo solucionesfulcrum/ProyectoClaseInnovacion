@@ -1,0 +1,11 @@
+Circuitos:
+En esta clase aprendí a conectar una LED, y hacer pruebas de cuánto voltaje aguantaba
+
+IOT:
+En esta clase descubrí el internet de las cosas, que nos muestra cómo la tecnología nos simplifica ciertos trabajos.
+
+Thinkercard:
+Aquí utilizamos la plataforma para crear objetos que pueden exportarse para ser imprimidos en 3D.
+
+Mis gustos:
+Aquí aprendimos a implementar imágenes en 3D y armar una composición en la que agregamos botones, videos, etc.
